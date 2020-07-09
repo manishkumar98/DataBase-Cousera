@@ -1,0 +1,2 @@
+alter table Pack 
+rename to Product
